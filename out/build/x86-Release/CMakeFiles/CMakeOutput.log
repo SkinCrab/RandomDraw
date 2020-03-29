@@ -1,0 +1,81 @@
+The system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/VSIDE/VC/Tools/MSVC/14.24.28314/bin/HostX86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.24.28316 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28316.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/3.15.19101501-MSVC_2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/VSIDE/VC/Tools/MSVC/14.24.28314/bin/HostX86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x86 的 Microsoft (R) C/C++ 优化编译器 19.24.28316 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.24.28316.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/3.15.19101501-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:\VSIDE\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_fc941 && [1/2] Building C object CMakeFiles\cmTC_fc941.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_fc941.exe
+
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:\VSIDE\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_f89a2 && [1/2] Building C object CMakeFiles\cmTC_f89a2.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_f89a2.exe
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:\VSIDE\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_c4f4d && [1/2] Building CXX object CMakeFiles\cmTC_c4f4d.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_c4f4d.exe
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/CQ/random-draw/out/build/x86-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:\VSIDE\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_8ab23 && [1/2] Building CXX object CMakeFiles\cmTC_8ab23.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_8ab23.exe
+
+
+

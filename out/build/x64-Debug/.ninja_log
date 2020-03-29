@@ -1,0 +1,21 @@
+# ninja log v5
+66	6632	605184899	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/vendor/cpp-base64/base64.cpp.obj	f2bfebdcfae8c098
+40	6679	605184899	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/base64.cpp.obj	8fd6280da80fbdb3
+16	7757	605184900	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/api_test.cpp.obj	7aad8fe865cb306f
+54	8971	605184901	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/dev_mode/api.cpp.obj	cb77838f99a17acd
+29	11923	605184904	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/dev_mode/main.cpp.obj	98b397f5896bf0f5
+4	14017	605184906	CMakeFiles/app_dev.dir/src/main.cpp.obj	43084427ce15e26e
+6644	14802	605184907	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/string.cpp.obj	22ecae3d391a23ec
+14806	19062	605184911	app_dev.exe	990aa5c6868a6850
+165	9741	605186824	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/base64.cpp.obj	c909b558e22254e9
+190	9808	605186824	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/vendor/cpp-base64/base64.cpp.obj	a80adb7ffbca48bc
+56	12299	605186827	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/api_test.cpp.obj	85f39a304c35cb03
+149	13242	605186828	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/dev_mode/api.cpp.obj	ae1ecfd3857af864
+1	15973	605186830	CMakeFiles/app_dev.dir/src/main.cpp.obj	52fd89b001dc4767
+178	16444	605186831	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/dev_mode/main.cpp.obj	d6eb4252292cab2c
+9742	17553	605186832	CMakeFiles/app_dev.dir/extern/cqcppsdk/src/utils/string.cpp.obj	770b2e44f5ce4d07
+17557	20487	605186834	app_dev.exe	990aa5c6868a6850
+3	9773	605187079	CMakeFiles/app_dev.dir/src/main.cpp.obj	52fd89b001dc4767
+9804	13317	605187082	app_dev.exe	990aa5c6868a6850
+2	12524	605187130	CMakeFiles/app_dev.dir/src/main.cpp.obj	52fd89b001dc4767
+12587	15441	605187133	app_dev.exe	990aa5c6868a6850

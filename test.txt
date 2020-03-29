@@ -1,0 +1,9 @@
+	  on_group_message([](const GroupMessageEvent& event) {
+		  string msg = event.message, trigger = "抽签";
+		  if (msg != trigger) return;
+		  try {
+			  auto mem_list = get_group_member_list(event.group_id); // 获取群成员列表
+			  srand(time(0));
+			  int id=rand()%
+			  send_group_message(event.group_id, msg); // 发送群消息
+		  }

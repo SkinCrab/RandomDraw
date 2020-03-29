@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\extern",
+    "\\extern\\cqcppsdk",
+    "\\extern\\cqcppsdk\\src",
+    "\\extern\\cqcppsdk\\src\\dev_mode",
+    "\\extern\\cqcppsdk\\src\\std_mode",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}
